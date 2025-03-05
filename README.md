@@ -19,14 +19,3 @@ I'm Shaheer Ahmed, a Machine Learning enthusiast. I'm passionate about exploring
 
 ## 🚀 About Me
 I'm currently diving deep into the world of Machine Learning and Data Science. I love the thrill of finding patterns and insights hidden in the data. I believe that the correct interpretation of data can not only solve complex problems but also reveal opportunities that could potentially revolutionize the way we perceive the world.
-
-## 🛠️ Techincal Skills
-- Machine Learning
-- Data Analysis
-- Python
-- TensorFlow
-- PyTorch
-
-## 💻 Product Skills 
-- UI/UX Design
-- UX Research
